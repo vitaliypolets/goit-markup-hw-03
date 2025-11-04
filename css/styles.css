@@ -156,7 +156,7 @@ color: #2e2f42;
         text-align: center;
         color: #fff;
         max-width: 496px;
-        margin: auto;
+        margin: 0 auto 48px auto;
         
 
 
@@ -335,7 +335,7 @@ padding: 100px 0;
 border-bottom: 1px solid #2e2f42;
 }
 
-.page-logo .footer-logo  {
+.page-logo  {
     display: inline-block;
     margin-bottom: 16px;
 }
